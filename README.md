@@ -1,5 +1,5 @@
 
-- 📚 Estudando .Net.
+- 📚 Estudando / Trabalhando .Net.
 - 🔍 Conhecimento SQL
 - 🔍 Conhecimento Front - End
 
