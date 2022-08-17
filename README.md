@@ -21,10 +21,6 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   
   
-  
-  
-  
-  
 </div>
   
   ##
@@ -41,7 +37,7 @@
 
  </div> 
  
- https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+
   
   
   ![164561476-e453e0e0-4842-4954-8404-3d378e1415c2](https://user-images.githubusercontent.com/32585248/183964498-3050a796-da85-48f1-96cf-f498c77105b3.gif)
