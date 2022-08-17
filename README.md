@@ -1,13 +1,14 @@
-- 📚 Estudando / Trabalhando .Net.
-- 🌱 Conhecimento SQL
-- 🌱 Conhecimento Front - End
 
-##
+- 📚 Estudando / Trabalhando .Net.
+- 🔍 Conhecimento SQL
+- 🔍 Conhecimento Front - End
+
+ ##
 
 <div align="center">
   <a href="https://github.com/brunomantovanidev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomantovanidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomantovanidev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunomantovanidev&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomantovanidev&theme=radical&layout=compact)](https://github.com/brunomantovanidev/github-readme-stats"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -29,9 +30,10 @@
 
 
  </div> 
+ 
+ 
   
   
-  
-![164561476-e453e0e0-4842-4954-8404-3d378e1415c2](https://user-images.githubusercontent.com/32585248/183964498-3050a796-da85-48f1-96cf-f498c77105b3.gif)
+  ![164561476-e453e0e0-4842-4954-8404-3d378e1415c2](https://user-images.githubusercontent.com/32585248/183964498-3050a796-da85-48f1-96cf-f498c77105b3.gif)
 
   
