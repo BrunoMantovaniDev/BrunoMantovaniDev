@@ -9,7 +9,7 @@
 <div align="center">
   
   <img height="170em" 
-  src="https://github-readme-stats.vercel.app/api?username=BrunoMantovaniDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&count_public=true"/>
+  src="https://github-readme-stats.vercel.app/api?username=brunomantovanidev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&count_public=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomantovanidev&theme=radical&layout=compact)](https://github.com/brunomantovanidev/github-readme-stats"/>
 </div>
 
