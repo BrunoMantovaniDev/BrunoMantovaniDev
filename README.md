@@ -1,6 +1,6 @@
 <h2 align= "center"> Olá, Seja Bem vindo !! </h2>
 
-- 📚 Estudando / Trabalhando Selasforce.
+- 📚 Estudando / Trabalhando Salesforce.
 - 🔍 Conhecimento SQL
 - 🔍 Conhecimento Front - End
 
